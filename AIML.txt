@@ -1,0 +1,328 @@
+Machine Learning : 
+
+Learn 
+ML Life cycle : 
+--> Algorithums 
+
+
+1. What is meachine Learning 
+-> It is all about learning form data without  being explicate programming 
+
+
+
+Tradition programming : 
+
+Data + program   ------> Output 
+
+ML 
+-->   Data + IN/OT ---> Program (Algorithum)
+
+
+program 
+add two numbers :  it only perform addition of two numbers : 
+
+ML 
+it understand it is addition logic :: 
+now you can add multiple values not ony two
+
+You cannot program  for every case (condition) 
+to check every case it's not possible : 😅
+
+ml --> learning form data 
+as data is changing logic is also changes 
+
+where ml is used where you not able to write case for each condition state 
+eg : image classification 
+
+WAP -->  to ideantify this is dog or not  
+-- write native cases ---- hard 
+ml ---> easy data processing 
+
+
+Data mining : 
+--> ML base 
+
+HIstory of ML 
+-> ml is long in industry
+
+Data is important for ML 
+data access is easy now then before  that's wise ML is now boom
+
+
+------------------------------------------------------------------------- 
+what is Inteligence :
+-> pattern recognation
+
+we can't write all condition to build expert system to build dog image classification , voice  --- not application symbolic AI 
+
+
+ML  - > you not do explicate programming for all condition 
+provide data as input and rules will generate automatically 
+dont write rules ( program )
+-> provide input  as features (properties)
+
+DP (deep learning) 
+-> it is ml 
+-> mathmatical logic 
+-> inspire by our biologically 
+-> it is used on big data 
+
+
+AI
+->ML
+-->DP
+ 
+--------------------------------------------------------------------
+
+Type of Machine Learning : 
+
+1.Superwise
+2.Unsuperwise
+3.SemiSuperwise
+4.Reinforcement
+
+1.Superwise  In + OP ----->  draw relationship between IN & OP  
+-> you have both input and output so on the base of that you predicte output for new input on the base of data 
+
+--->regression
+---> classification
+
+data__
+    numerical data 
+    categorical data   
+
+____ prediction____
+-regression  
+-->output column is numrical
+
+classification
+--> ouput column is categorical 
+
+2.Unsuperwise
+--> we have only input data 
+--> here it is not take place of prediction you got a point
+___________________
+-clustering 
+--> plot data in 2 axios 
+--> lable data creation (making group of same properties)
+
+
+-dimensionallity reduction 
+--> many input column 
+--> combine multiple column to make single column (reduce dim)
+ 
+
+
+-anomally reduction 
+--> something unexpeactage not average case 
+
+
+-association rule learning 
+--> arranging things in proper manner which create more profit
+
+
+3.SemiSuperwise
+--> google photos:making group of same photos ( clustering )
+
+4.Reinforcement
+Eg self driving cars
+--> we don't have data 
+--> Learn from mistakes  
+
+
+
+------------------------------------
+What about Aptitude ........
+-------------------------------------------------------------------------
+
+Type of ML
+-> it base on how train your model 
+Batch vs online learning ____
+
+ENV
+-> development 
+->production 
+
+
+Batch Learning / offline 
+-> data not change frequently 
+-> train on all data at same time 
+-> on production it only gives prediction not learn this model ok 
+
+Disadvantage:
+-> Lots of Data 
+-> Hardware Limitation
+-> Availability
+
+Online Learning :
+-> improve performnance as user used this product more 
+-> -> on production it only gives prediction and also learn form new input data as well 
+-> train model dynamically on server 
+-> fast training ---> fast solution 
+Eg : YouTube 
+
+sklearn -->  support batch learning  / offline learning 
+River library : - ML on streaming data 
+vowpal wabbit 
+
+-Learning Rate : 
+
+
+-Out of Core Learning :    
+training data offline with online learning way 
+
+
+------------------------------------------------------------------------------------
+
+
+How ML learn 
+learning 
+-> memorizing --->  Instance base learning 
+-> understanding concept ----> model base learning 
+
+
+Instance Base Learning :
+-> according to your surrounding : KNN algorithum  
+-> no training & learning 
+-> storage heavy
+-> lazy learning 
+
+Model Base Learning : 
+-> It create one mathamatical function 
+-> it create mathamatical relationship between input and OT
+-> classification ML
+-> storage is less    
+Eg : Leanior 
+
+
+What you understand 
+In future you should albe to classify which type of algorithum is as like you gotm y point eg : model base learning or instance base learning : 
+
+
+
+# Challenges in ML 
+
+1.Data Collection
+2. Insufficient Data 
+3. Non Representative Data
+4. Poor Quality Data 
+5. Irrelevant data 
+6. Overfitting
+7. Underfitting
+8. Software Integration
+9. Offline Learning / Deployment
+10.Cost Involved 
+
+- Data Collection 
+approchs 
+-> API 
+-> Web scraping 
+
+If quality of data is poor then result are also poor ok  
+
+
+--------------------------------------------------------------------------------------
+
+Application of Machine Learning : 
+
+-> in B2B business examples 
+1. Retail - Amazon/ Big Bazaar
+2. Transportation  -QLA
+3. Manufacturing - Tesla 
+
+
+Sentimental analysis 
+
+If you are not paying for the products then you are Product__
+-> your data will be sold for money :
+-> 
+
+---------------------------------------------------------------------------------
+
+Machine Learning Life Cycle :(MLDLC)
+<--- Set of guide lines whiling developing ml products --->
+1. Frame the Problem
+2. Gathering Data 
+-> API | web scraping | 
+3. Data Preprocessing 
+-> Remove duplicate
+-> remove missing values
+4. Exploratory Data Analysis
+5. Feature Engineering and Selection
+6. Model Training, Evalation and Selection
+7. Model Deployment
+8. Testing
+9. Optimize
+
+ 
+-------------------------------------------------------------------------------
+
+
+AngelList : for Job Role Internships : 
+
+1. Data Engineer 
+-> collecting data in effective and efficient way: 
+-> Database  --make-> Data ware house  
+
+2. Data Analyst
+-> good knowledge of Statistical programming 
+-> have common sence 
+-> Data Story Telling 
+
+3. Data Scientist :
+___> Full Stack Role --> 
+--> creating best model 
+->A data scientist is someone who is better at statistics than
+--any software engineer and  at software engineering than any statistician  
+
+
+4. ML Engineer : 
+
+
+How to develop Common sence 
+in ML how many types of algorithum are present 
+
+
+
+-----------------------------------------------------------------------------
+
+I am building Vide Coding same as like our Code minder just I am change the name of it in that what we provided to user is that user can able to see their progress at one place they can track their profile  
+as like github , leetcode they can able to see their all progress and activities in visual form 
+Question tracker in that user can able to track their questions which they solve and which are remaining and added notes to that particular question as well 
+and another one is Event Tracker in that user get all Event information which is upcoming so it never be miss out form ant one 
+and addition what we added in that is like AI Resume analysis it not only told you about your resume your weak and strong points but also gives you real time job opportunities by scraping job info form different websites you got my point now we only scrap Internshala  jobs data 
+in future we can scrap another websites data as well 
+AI Mock Interview Taker in that what happen is that user can create according given job role and description and exp level it will create personalize Mock Interview you know that very well we build this form scratch 
+and one of the important session is community in that we goanna create groups and as according to user requirement and interest they can join their related groups and enjoying learning 
+
+and at last we have all data of user so on the base of that we create one AI Guide which know all your information so what happen is that it gives you personalize responsive not general as like chat gpt you got my point 
+
+I am presenting this idea in one of the shark tank  competition but you know that 
+it is quite similar as Codolio  website if you know very well about that is this great idea to pitch 
+
+In that I am notice one thing which is data 
+we can used user data in effective way to give them personalize advice and user that data to show that only particular adds to user 
+we can used data to get impact full result as like we track user behavior ok and on that base of that 
+we recomanded user cources and other things according to their own self 
+you got my point I think this was my main revenue point I think 
+and we can make money form this as well 
+you know that as well 
+if user not pay for product then they are product 
+
+what your thought on this don't give me general advice we goanna think as startup found and we can win competition as like you got my point 
+we discuss lots of things about it ok 
+if you have any question then ask me so due to that you get better clarity of taught ok 
+is this really impact full or good ? 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
